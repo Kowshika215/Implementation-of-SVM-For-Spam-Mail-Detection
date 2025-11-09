@@ -67,15 +67,25 @@ accuracy
 
 ## Output:
 <img width="815" height="37" alt="image" src="https://github.com/user-attachments/assets/688ecd9a-b67e-45bf-a910-a116efa8087c" />
+
 ## data.head
+
 <img width="844" height="250" alt="image" src="https://github.com/user-attachments/assets/7cc2d35a-382c-4906-aa0f-2d514b26b0ac" />
+
 ## data.info
+
 <img width="442" height="270" alt="image" src="https://github.com/user-attachments/assets/aeff9068-493a-41ce-8f13-65eb4318856f" />
+
 ## data.isnull().sum()
+
 <img width="278" height="286" alt="Screenshot 2025-11-09 125637" src="https://github.com/user-attachments/assets/8b166438-5a26-48ae-85df-b7e3d78d6ba5" />
+
 ## array
+
 <img width="723" height="76" alt="Screenshot 2025-11-09 130418" src="https://github.com/user-attachments/assets/74290d6e-f11d-4f10-ade2-6fc0dda3d934" />
+
 ## accuracy
+
 <img width="231" height="36" alt="image" src="https://github.com/user-attachments/assets/80ee6e07-3597-451d-9a5a-d2d0013b1391" />
 
 ## Result:

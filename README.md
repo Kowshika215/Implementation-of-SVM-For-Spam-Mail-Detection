@@ -8,6 +8,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm:
+
 1. Detect File Encoding: Use chardet to determine the dataset's encoding.
 
 2.Load Data: Read the dataset with pandas.read_csv using the detected encoding.
